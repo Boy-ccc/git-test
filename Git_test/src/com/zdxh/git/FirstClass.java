@@ -15,4 +15,9 @@ public class FirstClass {
         System.out.println("I want to");
     }
 
+    public void test() {
+        int i = 0;
+        i += 10;
+    }
+
 }
